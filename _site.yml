@@ -1,0 +1,16 @@
+name: "greenfinance"
+navbar:
+  title: "greenfinance"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Projects"
+      href: projects.html
+    - text: "About"
+      href: about.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
